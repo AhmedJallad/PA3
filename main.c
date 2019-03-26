@@ -144,3 +144,4 @@ static void splice(char* command)
     
     arguments[i] = NULL;
 }
+// This is the updated comment
